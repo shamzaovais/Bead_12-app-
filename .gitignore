@@ -1,0 +1,32 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+sysinfo.txt
+*.apk
+*.aab
+drwxrwxr-x    .
+drwxrwxr-x   ..
+-rw-rw-r--   AndroidManifest.xml
+-rw-rw-r--   apktool.yml
+drwxrwxr-x   assets
+drwxrwxr-x   original
+drwxrwxr-x   res
+drwxrwxr-x   smali
+drwxrwxr-x   smali_classes2
+drwxrwxr-x   unknown
